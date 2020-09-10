@@ -10,20 +10,35 @@ Different webcam technologies have different default usernames and passwords
 List of many different accessible shodan cameras: default username / default password
 
 ACTi: admin/123456 or Admin/123456
+
 Axis (traditional): root/pass,
+
 Axis (new): requires password creation during first login
+
 Cisco: No default password, requires creation during first login
+
 Grandstream: admin/admin
+
 IQinVision: root/system
+
 Mobotix: admin/meinsm
+
 Panasonic: admin/12345
+
 Samsung Electronics: root/root or admin/4321
+
 Samsung Techwin (old): admin/1111111
+
 Samsung Techwin (new): admin/4321
+
 Sony: admin/admin
+
 TRENDnet: admin/admin
+
 Toshiba: root/ikwd
+
 Vivotek: root/<blank>
+
 WebcamXP: admin/ <blank>
   
 Searching for countries with the layoung country:"2 letter country code"
